@@ -1,0 +1,13 @@
+prefix=/home/bernd/local/qt-sdk-nokia/Madde/targets/harmattan-platform-api/bin
+exec_prefix=${prefix}
+libdir=${prefix}/lib/
+includedir=${prefix}/include
+qt_config=include_source_dir lex yacc warn_on uic resources qt warn_on release incremental link_prl nostrip def_files_disabled exceptions no_mocdepend release stl qt_no_framework harmattan_obs_build staticlib create_pc create_prl no_install_prl static staticlib moc thread
+
+Name: Qxmpp
+Description: Qxmpp Library
+Version: 1.0.0
+Libs: -L${libdir} -lqxmpp 
+Libs.private: -L/home/bernd/local/qt-sdk-nokia/Madde/sysroots/harmattan-meego-arm-sysroot-1122-slim/usr/lib  -lQtXml -lQtNetwork -lQtCore -lpthread   
+Cflags:  -I${includedir}
+

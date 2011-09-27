@@ -1,0 +1,4 @@
+This is a fork of qxmpp for harmattan, meego and whatever follows MeeGo, perhaps.
+
+The initial code is unaltered QXmpp-0.3.0. The only differences are
+in the build system, and in packaging.
