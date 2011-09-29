@@ -17,7 +17,7 @@ MOC_DIR = tmp/moc
 RCC_DIR = tmp/rcc
 
 message ("QXMPP name $$QXMPP_LIBRARY_NAME")
-message ("QXMPP version $$$QXMPP_VERSION")
+message ("QXMPP version $$QXMPP_VERSION")
 message ("QXMPP dir $$QXMPP_LIBRARY_DIR")
 
 # Target definition

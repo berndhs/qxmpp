@@ -6,4 +6,7 @@ CONFIG += qxmpp_include_tests
 CONFIG += qxmpp_include_doc
 CONFIG += qxmpp_include_examples
 
+QXMPP_VERSION = $$system(sh ./version.sh)
+message ("version $$QXMPP_VERSION")
+
 include ("build-lib.pri")

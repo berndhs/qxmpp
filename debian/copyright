@@ -1,0 +1,42 @@
+This package was debianized by Bernd Stramm <bernd.stramm@gmail.com> on
+Sat, 24 Sep 2011 09:42:48 -0400.
+
+It was downloaded from <http://code.google.com/p/qxmpp>
+
+Upstream Author(s):
+QXMPP AUTHORS
+-------------
+
+Manjeet Dahiya <manjeetdahiya@gmail.com>
+ * Initial author of QXmpp.
+
+Jeremy Lainé <jeremy.laine@m4x.org>
+ * Co-author of QXmpp.
+
+Ian Reinhart Geiser <geiseri@kde.org>
+ * Initial author of Jabber-RPC support.
+
+
+Copyright:
+
+    Copyright (C) 2008-2011 The QXmpp developers
+
+License:
+
+   This library is free software; you can redistribute it and/or
+   modify it under the terms of the GNU Lesser General Public
+   License as published by the Free Software Foundation; either
+   version 2.1 of the License, or (at your option) any later version.
+  
+   This library is distributed in the hope that it will be useful,
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+   Lesser General Public License for more details.
+ 
+    You should have received a copy of the GNU General Public License
+    along with this package; if not, write to the Free Software
+    Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301 USA
+
+The Harmattan packaging is (C) 2011, Bernd Stramm <bernd.stramm@gmail.com> and
+is licensed under the GPL, see above.
+
